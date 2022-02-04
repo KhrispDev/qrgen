@@ -2,8 +2,7 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Versions will be supported with patch updates 6 months after release.
 
 | Version | Supported          |
 | ------- | ------------------ |
