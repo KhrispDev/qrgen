@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to QRGEN
 
-You can use the [editor on GitHub](https://github.com/KhrispDev/qrgen/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Enter all the details and shaboom! A QR code has been generated!!! (does not work lmao)
 
 ### Markdown
 
